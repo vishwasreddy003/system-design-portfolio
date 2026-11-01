@@ -8,10 +8,10 @@ As a Software Development Engineer, I practice designing systems that can handle
 
 | Project | Description | Core Concepts Explored |
 |---------|-------------|------------------------|
-| [**Real-Time Game Leaderboard**](./real-time-leaderboard) | A low-latency leaderboard system handling millions of concurrent users. | Redis Sorted Sets, WebSockets, Kafka, Microservices |
-| [**Global Notification Service**](./global-notification-service) | A scalable service to deliver SMS, Email, and Push notifications reliably. | Rate Limiting, Message Queues (RabbitMQ/Kafka), Retry Mechanisms |
-| [**Pastebin Service**](./pastebin-service) | A URL shortener and text storage service capable of handling heavy read/write loads. | Hashing, Load Balancing, Database Sharding, Caching |
-| [**Library Management System**](./library-management-system) | An object-oriented LLD approach to managing book inventory and user reservations. | Object-Oriented Design (OOD), ACID Properties, Relational Databases |
+| [**Real-Time Game Leaderboard**](./Real-Time%20Game%20Leaderboard) | A low-latency leaderboard system handling millions of concurrent users. | Redis Sorted Sets, WebSockets, Kafka, Microservices |
+| [**Global Notification Service**](./Global%20Notification%20Service) | A scalable service to deliver SMS, Email, and Push notifications reliably. | Rate Limiting, Message Queues (RabbitMQ/Kafka), Retry Mechanisms |
+| [**Pastebin Service**](./Pastebin%20Service) | A URL shortener and text storage service capable of handling heavy read/write loads. | Hashing, Load Balancing, Database Sharding, Caching |
+| [**Library Management System**](./Library%20Management%20System) | An object-oriented LLD approach to managing book inventory and user reservations. | Object-Oriented Design (OOD), ACID Properties, Relational Databases |
 
 ## 🛠️ Tools Used
 * **Prism:** For crafting detailed HLD diagrams.
